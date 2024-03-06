@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(150,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(151,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(155,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(156,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(157,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(158,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(167,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(167,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(487,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(488,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(494,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(499,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(713,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(719,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(723,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(727,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\SEM1_3\PG\ProiectInitial\ProiectInitial\main.cpp(731,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  3 of 1805 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProiectInitial.vcxproj -> C:\Facultate\SEM1_3\PG\ProiectInitial\x64\Release\ProiectInitial.exe
